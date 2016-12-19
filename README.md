@@ -4,7 +4,7 @@ Project :Xbee Wifi Connection
 Engineer : Nikhil.P.Lokhande
 email:nikhil.l.1@aol.com
 
-Considering the lack of documentation and code support for Xbee s6B, this would be a good template for general usage.
+Considering the lack of documentation and code support for Xbee S6B, this would be a good template for general usage.
 Using Xbee wifi modules to communicate to a computer using python, also to gather and use the data in general. 
 The code included with this project is tested on Xbee s6B, but should work on most raw feed wifi hardware, including other wifi Xbee models. 
 
